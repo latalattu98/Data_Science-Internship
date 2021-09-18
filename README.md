@@ -27,3 +27,12 @@ Colab is ideal for everything from improving your Python coding skills to workin
     If you know Jupyter Notebooks at all, you’re pretty much good to go in Google Colab, 
     but there are just a few little differences that can make the difference between flying off to
     freedom on the wings of free GPU and sitting at our computer.
+
+## Learning
+
+ i learnt how to create Github Repository,  what is use of google colaboratory in python Data Science. 
+ i started with Basics of Python like printing Statements, Variables, function, conditional statements.
+ I had learnt in the internship. I have got an clear idea about the Data Science and 
+ how to used python code in Data Sets, Nampy’s, Pandas, Visualization etc,  and 
+ i learnt how to divide the datas from csv and tsv files. I had Solved 4-5 csv files 
+ based on Data sets like car data, fish data etc and i had divided based on particular rows and columns.
