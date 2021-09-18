@@ -1,7 +1,5 @@
 # Data Science
 
-## Table of contents
-
 
         Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems 
 to extract knowledge and insights from noisy, structured and unstructured data, and apply knowledge and actionable 
@@ -14,3 +12,18 @@ context of mathematics, statistics, computer science, information science, and d
 data science is different from computer science and information science. Turing Award winner Jim Gray imagined 
 data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and 
 asserted that "everything about science is changing because of the impact of information technology" and the data deluge.
+
+## Colaboratory
+    
+    It's a Awesome platform to improving a python coding.
+    
+    Colab is ideal for everything from improving your Python coding skills to working with deep learning libraries,
+    like PyTorch, Keras, TensorFlow, and OpenCV. You can create notebooks in Colab, upload notebooks, store notebooks,
+    share notebooks, mount your Google Drive and use whatever you’ve got stored in there, import most of your 
+    favorite directories, upload your personal Jupyter Notebooks, upload notebooks directly from GitHub,
+    upload Kaggle files, download your notebooks, and do just about everything else that 
+    you might want to be able to Working in Google Colab for the first time has been totally phenomenal
+    and pretty shockingly easy, but it hasn’t been without a couple of small challenges! 
+    If you know Jupyter Notebooks at all, you’re pretty much good to go in Google Colab, 
+    but there are just a few little differences that can make the difference between flying off to
+    freedom on the wings of free GPU and sitting at our computer.
