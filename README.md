@@ -28,7 +28,7 @@ Colab is ideal for everything from improving your Python coding skills to workin
     but there are just a few little differences that can make the difference between flying off to
     freedom on the wings of free GPU and sitting at our computer.
 
-## Learning
+### Learning
 
  i learnt how to create Github Repository,  what is use of google colaboratory in python Data Science. 
  i started with Basics of Python like printing Statements, Variables, function, conditional statements.
